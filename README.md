@@ -79,6 +79,8 @@ src/
 
 ## Dados de feriados
 
+https://gist.github.com/sistematico/0d795e73e133632204593f1d1db4a618
+
 O arquivo `data/feriados_nacionais.json` contém um objeto no formato:
 
 ```json
