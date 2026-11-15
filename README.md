@@ -4,6 +4,15 @@ Calendário web estático em HTML, CSS e JavaScript puro (vanilla), focado na vi
 
 Não utiliza frameworks, bibliotecas ou build tools. Roda diretamente no navegador.
 
+Visão mensal
+
+<img width="300" height="381" alt="image" src="https://github.com/user-attachments/assets/623dc967-e2c6-428e-b11a-962f90d0c0e0" />
+
+Visão anual
+
+<img width="300" height="315" alt="image" src="https://github.com/user-attachments/assets/f2fa46f5-064b-42a5-bbf0-f352bc6e9bb9" />
+
+
 ## Funcionalidades
 
 - **Visão mensal**: grade completa do mês com feriados destacados, legenda e mini-calendários do mês anterior e seguinte.
